@@ -1,6 +1,6 @@
 # Paint
 
-SIMPLE PAINT WHERE YOU CAN DRAW IN PIXEL ART STYLE
+A BOARD FOR YOU TO DRAW IN PIXEL ART STYLE
 
 -----------------------------------------------------------------------------------------
 
